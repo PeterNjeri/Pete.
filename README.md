@@ -4,7 +4,7 @@ Hello World, this is my profile.
 
 ###
 
-<p align="left">My name is Pete and I'm a software engine.</p>
+<p align="left">My name is Pete and I'm a software engineer.</p>
 
 ###
 
